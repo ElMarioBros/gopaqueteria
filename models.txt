@@ -1,0 +1,32 @@
+Ticket
+    track_number
+    name   
+    weight
+    description
+    date
+    status
+    image-1
+    image-2
+    image-3
+    image-4
+
+-----------------------------------------------
+http://plazadelzapato.rel.red/tickets
+    Registrar ticket
+
+http://plazadelzapato.rel.red/list
+    Listar todos los tickets
+
+http://plazadelzapato.rel.red/list/{id}
+    Visualizar un ticket
+    
+http://plazadelzapato.rel.red/find
+    Encontrar un ticket por medio de su ID (QR)
+
+http://plazadelzapato.rel.red/view (No existe)
+    Ver el ticket con QR para poder compartir y enseñar
+
+
+
+Ruta == EXPECTATIVA                             ->      Route
+Itinerario == LO QUE REALMENTE ESTÁ PASANDO     ->      Itinerary
