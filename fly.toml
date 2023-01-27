@@ -20,8 +20,8 @@ processes = []
   DB_HOST = "gcp-us-central1.connect.psdb.cloud"
   DB_PORT = "3306"
   DB_DATABASE = "gopaqueteria"
-  DB_USERNAME = "01xbcl8we3w7ya1y1294"
-  DB_PASSWORD = "pscale_pw_q2ERBDSi0uq6sQyeLzNbHHGzvlGCo3NSd7d1BmZMkck"
+  DB_USERNAME = "DB_USERNAME"
+  DB_PASSWORD = "DB_PASSWORD"
   MYSQL_ATTR_SSL_CA = "/etc/ssl/certs/ca-certificates.crt"
 
 [experimental]
